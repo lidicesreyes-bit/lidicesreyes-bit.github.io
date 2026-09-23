@@ -19,9 +19,20 @@ Soy doctoranda en Ciencias de la Ingeniería, mención Automática, en la Univer
 
 ## Publicaciones seleccionadas
 
-- *Assessment of Clustering-Based Segmentation Techniques for Multispectral Agricultural Imagery* — IEEE CHILECON, 2025.
-- *Neural Network-Based Stress Detection in Crop Multispectral Imagery for Precision Agriculture* — IEEE CSNDSP, 2024.
-- *Machine Learning in Spectral Imaging for Smart Farming: A Review* — IEEE CHILECON, 2023.
+* [*Assessment of Clustering-Based Segmentation Techniques for Multispectral Agricultural Imagery*](https://doi.org/10.1109/CHILECON66915.2025.11476622) — IEEE CHILECON, 2025. Comparación de métodos de segmentación para imágenes agrícolas.
+* [*Neural Network-Based Stress Detection in Crop Multispectral Imagery for Precision Agriculture*](https://doi.org/10.1109/CSNDSP60683.2024.10636640) — IEEE CSNDSP, 2024. Detección de estrés en cultivos mediante visión por computador.
+* [*Optimizing Magnetic Resonance Image Segmentation Through Scalable Deep Learning and Hierarchical Data Management*](https://doi.org/10.1109/CSNDSP68462.2026.11654508) — IEEE CSNDSP, 2026. Segmentación de imágenes médicas con aprendizaje profundo.
+* [*Real-Time Visual Fatigue Monitoring System via Facial Landmark Analysis and Blink Rate Tracking*](https://doi.org/10.1109/CSNDSP68462.2026.11654475) — IEEE CSNDSP, 2026. Sistema de monitoreo visual en tiempo real.
+* [*Machine Learning Approaches for Predicting Code Refactoring Opportunities*](https://doi.org/10.1109/SACVLC67412.2025.11261938) — IEEE SACVLC, 2025. Uso de aprendizaje automático para identificar oportunidades de mejora de código.
+
+## Certificaciones seleccionadas
+
+* **Specialization in Machine Learning** — Coursera, 2024.
+* **Google Cloud Big Data and Machine Learning Fundamentals** — Coursera, 2025.
+* **Python for Data Science, AI and Development** — Coursera, 2024.
+* **Foundations of Data Science** — Coursera, 2025.
+* **Business Intelligence (BI) Essentials** — Coursera, 2025.
+
 
 ## Mi trabajo en DIE USACH
 
